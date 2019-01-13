@@ -1,2 +1,2 @@
-# moneymanagement-notes
-notes on money management
+# Money Management Notes
+
